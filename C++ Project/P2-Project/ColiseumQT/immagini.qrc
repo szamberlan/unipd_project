@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/arena.jpg</file>
+        <file>img/elf_icon.jpg</file>
+        <file>img/human_icon.jpg</file>
+        <file>img/orc_icon.jpg</file>
+        <file>img/assassino_icon.jpg</file>
+        <file>img/barbaro_icon.jpg</file>
+        <file>img/esploratore_icon.jpg</file>
+        <file>img/cavaliere_icon.jpg</file>
+        <file>img/guerriero_icon.jpg</file>
+        <file>img/furfante_icon.jpg</file>
+        <file>img/menu_icon.png</file>
+        <file>img/flask_icon.png</file>
+        <file>img/helmet_icon.png</file>
+        <file>img/potion_icon.png</file>
+        <file>img/shield_icon.png</file>
+        <file>img/weapon_icon.png</file>
+        <file>img/victory_icon.png</file>
+        <file>img/arena_icon.png</file>
+    </qresource>
+</RCC>
